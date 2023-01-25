@@ -11,7 +11,7 @@ body {
 
 }
 .background {
-    background: url(https://th.bing.com/th/id/OIP.-THHk3SbhsKtF1gnS0O1RAHaFj?pid=ImgDet&rs=1);
+    background: url(/background.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
